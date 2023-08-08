@@ -1,0 +1,13 @@
+###Do The Right Thing
+
+####Situation
+Shortly after starting at a Fortune 100 company, I was responsible for reviewing all of my direct reports. The organization had restructured multiple times over the last few years as the engineering groups grew at a very fast pace. The company had a desire to standardize the engineering roles and went through an exercise, with an outside consultancy, to compare roles to the greater industry. Some titles were very creative and hard to place in the market. It was discovered that some salaries were below market. A standard leveling was performed.
+
+####Task
+The task at hand was to evaluate where all of the engineers were and determine what “band” or level they fit into. Gathering an understanding of where the engineers saw themselves and where others saw them was key. Understanding their history as they were bounced around from teams and managers was also key, although difficult conversations in many instances.
+
+####Actions
+The standardization was beneficial for most. It meant a clearer definition of the role and responsibility and where they fit into the organization. It meant a new title for some, but not all. More importantly, it meant an understanding of the person’s salary compared to their peers and what career growth looked like.  It became clear that some engineers had been promoted in title only. This is very unfortunate. Some engineers had been there for five or more years and had no compensation adjustment as they had gone through the ranks. They would bounce to a new team or manager and be “awarded” a new title due to the team's needs, but not formally reviewed. Correcting this was not an easy task.  I had to work very closely with Human Resources to examine several engineers. Some required fractional changes to compensation or title. However, one person, in particular, was a much larger battle. They had fallen through the cracks. They had institutional knowledge that was very valuable. The company had a motto of “Do The Right Thing”. So I did, despite HR not having a process for this particular situation. It was not easy. It took over a year to get the title and salary corrected.
+
+####Results
+Working with HR partners is different than working with peer groups or cross-functional teams. It requires some patience and a lot of explaining and follow-up. In the end, the engineer finally received what was right all along. Their title and salary were adjusted. When I delivered the news I will never forget what I heard. They said, “Thank you, you’re the only manager I’ve ever had that has cared.” That made the year-and-a-half-long process worth it.
